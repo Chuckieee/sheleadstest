@@ -1,0 +1,143 @@
+.logo{
+    width: 236px; 
+    height: 47px; 
+    margin-top: 10px
+  }
+  .navbar{
+  background-color:white; 
+  height: 80px; 
+  width: 50px;
+  }
+  #home{
+    color: black;
+  }
+  .nav-item{
+    width: 50px;
+    margin-left: 100px;
+  }
+  .women{
+    width: 100%;
+    margin-trim: 100px;
+  }
+  .feature{
+    text-align: center;
+    padding-top: 30px;
+  }
+  .img{
+    margin-left: 300px;
+    width: 50px;
+    margin-top: 50px;
+  }
+  .cnn{
+    width: 80px;
+  }
+  .saha{
+    width: 120px;
+    margin-left: 200px;
+    margin-top: -60px;
+  }
+  .cnbc{
+    margin-left: 400px;
+    margin-top:-120px ;
+    width: 80px;
+  }
+  .how{
+    width: 100px;
+    margin-left: 600px;
+    margin-top: -140px;
+  }
+  .vent{
+    margin-left: 800px;
+    width: 100px;
+    margin-top: -190px;
+  }
+  .forbes{
+    margin-left: 1000px;
+    width: 120px;
+    margin-top: -240px;
+  }
+  .start{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 500px;
+    font-style: 30px;
+  }
+  .goals{
+    color: blue;
+    padding-top: 20px;
+    font-size: 20px;
+    padding-left: 40px;
+    font-weight: 400px;
+    
+  }
+  .smart{
+    width: 350px;
+    padding-left: 40px;
+  }
+  .hun{
+    margin-left: 500px;
+    margin-top: -200px;
+  }
+  .con{
+    margin-left: 500px;
+    margin-top: -200px;
+  }
+  .all{
+    padding-top: 50px;
+  }
+  .plug{
+    margin-top: 100px;
+    color:blue;
+    text-align: center;
+  }
+  .mmi{
+    width: 500px;
+    margin-left: 100px;
+  }
+  .letter{
+    margin-left: 900px;
+    margin-top: -300px;
+    font-weight: 400px;
+  }
+  .news{
+    width:550px;
+    margin-left: 900px;
+  }
+  .signi{
+    margin-left: 900px;
+    border-color: blue;
+    background-color: blue;
+    border: 100px;
+    height: 60px;
+    border-radius: 100px;
+    width: 150px;
+    color: white;
+  }
+  .hgcp{
+    width: 500px;
+    margin-left: 900px;
+    margin-top: 150px;
+  }
+  .grow{
+    margin-top: -300px;
+    margin-left: 100px;
+  }
+  .gen{
+    width: 550px;
+    margin-left: 100px;
+  }
+  .signy{
+    margin-left: 100px;
+    border-color: blue;
+    background-color: blue;
+    border: 100px;
+    height: 60px;
+    border-radius: 100px;
+    width: 150px;
+    color: white;
+  }
+  .slay{
+    width: 500px;
+    margin-top: 150px;
+    margin-left: 100px;
+  }
